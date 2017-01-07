@@ -1,6 +1,1 @@
-# soapyJoes
-# SoapyJoes
-# Soapy Joes
-# DemoNight
-# DemoNight
-# DemoNight
+<img src='https://github.com/emalysz/DemoNight/blob/master/soapyJoesgif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
